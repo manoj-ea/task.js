@@ -1,7 +1,7 @@
 let adminUsername="manoj";
 let adminPassword="1234";
 let totalProducts=15;
-let totalSales=15000;
+let totalSales=20000;
 let users=[
 {id:1,name:"Manoj",email:"manoj@gmail.com",age:22},
 {id:2,name:"Kavinaya",email:"kavi@gmail.com",age:18},
